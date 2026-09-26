@@ -3,3 +3,5 @@
 | Day | Date | File Name | Description | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **Day 2** | 02-Oct-2026 | `day_02_material_selection_engine.ipynb` | Pandas pipeline computing Specific Stiffness and Specific Strength for material selection. | ✅ Completed |
+
+| **Day 4** | 04-Oct-2026 | `day_04_stress_concentration_ml.ipynb` | Scikit-Learn Polynomial Regression model predicting Stress Concentration Factors ($K_t$). | ✅ Completed |
