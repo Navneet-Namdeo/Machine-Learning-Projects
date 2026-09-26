@@ -1,0 +1,5 @@
+# Machine Learning Projects — Daily Progress Tracker
+
+| Day | Date | File Name | Description | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Day 2** | 02-Oct-2026 | `day_02_material_selection_engine.ipynb` | Pandas pipeline computing Specific Stiffness and Specific Strength for material selection. | ✅ Completed |
